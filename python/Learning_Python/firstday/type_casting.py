@@ -1,0 +1,14 @@
+a="2"
+b=3
+c=int(a)
+d=float(c)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+sum=c+d
+print(sum)
+sum2=int(c+d)
+print(sum2)
+a=str(a)
+print(type(a))

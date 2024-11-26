@@ -1,0 +1,2 @@
+i am a python coder.
+D:\sks\vs_code\python\Learning_Python\File\demo.txt

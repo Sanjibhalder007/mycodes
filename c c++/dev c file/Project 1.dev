@@ -1,0 +1,11 @@
+[Project]
+FileName=D:\dev c file\Project 1.dev
+Name=Project 1
+Use_gpp=1
+UnitCount=1
+ResFiles=D:\dev c file\rsrc.rc
+NoConsole=1
+IsDll=0
+Icon=C:\Users\User\Downloads\Bin\Mainicon.ico
+[Unit1]
+FileName=Untitled1
